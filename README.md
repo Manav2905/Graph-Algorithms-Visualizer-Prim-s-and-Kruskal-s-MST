@@ -42,10 +42,10 @@ Kruskal's Algorithm is another greedy algorithm used to find the minimum spannin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/graph-algorithms-visualizer.git
+   git clone https://github.com/Manav2905/Graph-Algorithms-Visualizer-Prim's-and-Kruskal's-MST.git
 
 2. Navigate to the project directory:
    ```bash
    cd graph-algorithms-visualizer
 
-3. Open "index.html" in your browser to start using the application.
+3. Open "dashboard.html" in your browser to start using the application.
